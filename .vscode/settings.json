@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "dwt.h": "c",
+        "task_button_attribute.h": "c",
+        "task_screen_attribute.h": "c",
+        "stdio.h": "c",
+        "task_screen_interface.h": "c",
+        "stdbool.h": "c",
+        "stdint.h": "c",
+        "arm_book_lib.h": "c",
+        "stm32f1xx_hal_i2c.h": "c",
+        "display.h": "c",
+        "board.h": "c",
+        "task_system.h": "c"
+    }
+}
